@@ -43,7 +43,7 @@
 "title":"Tác giả",
 "text":"PHAMLONGIT"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -74,7 +74,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2\n\n- Thêm nhiều biểu tượng yêu cầu 01 11 2025\n\n- Hỗ trợ Rootless & Roothide Jailbreak"
+"markdown":"### Phiên bản 1.2.3\n\n- Thêm nhiều biểu tượng yêu cầu 01 11 2025\n\n- Hỗ trợ Rootless & Roothide Jailbreak"
 }
 ],
 "class":"DepictionStackView"
