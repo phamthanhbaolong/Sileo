@@ -12,7 +12,7 @@
 "title":"Mô tả"
 },
 {
-"markdown":"\n\n- Chủ đê Liquid Clear Glass Color \n\n- Anh Em thiếu icon nào Request mình sẽ làm hết 😁 \n\n- Dùng đẹp nhất khi kết hợp với Tweaks VITREUX ⚠️\n\n- Kích hoạt chủ đề qua Tweaks Snowboard.",
+"markdown":"\n\n- Chủ đê Liquid Clear Glass Color \n\n- Anh Em thiếu icon nào Request mình sẽ làm hết 😁 \n\n- Dùng đẹp nhất khi kết hợp với Tweaks VITREUX & trên hình nền tối ⚠️\n\n- Kích hoạt chủ đề qua Tweaks Snowboard.",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -43,7 +43,7 @@
 "title":"Tác giả",
 "text":"PHAMLONGIT"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -52,7 +52,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/10/2025"
+"text":"01/11/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -74,7 +74,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1\n\n- Thêm nhiều biểu tượng yêu cầu\n\n- Hỗ trợ Rootless & Roothide Jailbreak"
+"markdown":"### Phiên bản 1.2\n\n- Thêm nhiều biểu tượng yêu cầu 01 11 2025\n\n- Hỗ trợ Rootless & Roothide Jailbreak"
 }
 ],
 "class":"DepictionStackView"
